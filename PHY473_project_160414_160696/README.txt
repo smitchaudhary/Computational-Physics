@@ -1,0 +1,1 @@
+This program is written keeping in mind the data format in temperatures folder. To run the program for other data format the code will need some changes. Currently the code shows prediction for atlanta, chicago, new york city and portland. However other data can also be included depending on the format.
